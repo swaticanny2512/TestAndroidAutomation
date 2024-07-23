@@ -3,7 +3,7 @@ Appium based framework to test Native Android App - ebay App chosen for this pur
 
 ## Installation & Setup
 
-1. Download Genymotion to configure emulators. (Check in Desired capabilities setup in base class)
+1. Download Genymotion to conbnigure emulators. (Check in Desired capabilities setup in base class)
 2. Appium Server  - configured IP address - 0.0.0.0 & Port 4723
 3. Create Maven project using Java and include below dependencies in pom.xml
 
